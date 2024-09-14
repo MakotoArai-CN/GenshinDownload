@@ -1,8 +1,8 @@
 
 
-# ProjectName
+# GenshinDownload
 
-ProjectName and Description
+GenshinDownload and Description
 
 <!-- PROJECT SHIELDS -->
 
